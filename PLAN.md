@@ -4,7 +4,7 @@ Selected event: https://ieee-climatechain-hack.devpost.com/
 Track: Climate Data & Environmental Monitoring.
 Solo entrant: BharathGelivi; India; college student; over 18 (user supplied).
 
-Selection on 9 October 2026: approximately 635 registrations, $3,000 advertised cash ($1,500/$1,000/$500). Rules still say prizes TBD and prohibit submissions before 25 October 8 AM Pacific, later than the displayed 25 October 5 PM MSK deadline. Final entry must wait for clarification. No prize or eligibility verification has been claimed.
+Selection on 9 October 2026: approximately 635 registrations, $3,000 advertised cash ($1,500/$1,000/$500). Rules still say prizes TBD and prohibit submissions before 25 October 8 AM Pacific, later than the displayed 25 October 5 PM MSK deadline. A newer official organizer update confirms submissions opened October 5 (updates/46814-climatechain-hackathon-submissions-open-tomorrow-get-ready-to-submit); this resolves the practical start-time question. No prize or eligibility verification has been claimed.
 
 ## Modules and acceptance criteria
 1. Import: strict CSV parser, dates, finite Celsius values, unique dates, limits; NASA POWER daily temperature import without a key. No silent simulated live data.
@@ -17,7 +17,7 @@ Selection on 9 October 2026: approximately 635 registrations, $3,000 advertised 
 ## Comparison
 Qloo: $25,000 cash / ~828; cannot complete live integration without manually approved key.
 RenderJuice: $1,500 cash / 9; strongest raw ratio, but official Discord entry opens 15 October and requires account membership.
-IEEE ClimateChain: $3,000 advertised cash / ~635; immediate build with no key; submission-window conflict remains.
+IEEE ClimateChain: $3,000 advertised cash / ~635; immediate build with no key; newer official organizer update confirms October 5 opening.
 Build With AI Basics: $2,500 cash / ~2,796; immediate build, but weaker raw ratio and mandatory learning-skill workflow.
 Hyperbloom and Galuxium: advertised monetary totals represent credits/licenses; rejected for the user's cash requirement.
 

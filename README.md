@@ -50,7 +50,7 @@ NASA documentation: https://power.larc.nasa.gov/docs/services/api/temporal/daily
 
 ## Competition status
 
-Do not represent this as submitted until Devpost confirms it. The IEEE rules currently conflict: the page deadline is 25 October at 5 PM MSK, while rules say not to submit before 25 October 8 AM Pacific. Prize page lists $3,000 cash, but rules say prizes TBD. These need organizer clarification before final submission. Winning and payout are not guaranteed.
+Do not represent this as submitted until Devpost confirms it. The IEEE rules currently conflict: the page deadline is 25 October at 5 PM MSK, while rules say not to submit before 25 October 8 AM Pacific. Prize page lists $3,000 cash, but rules say prizes TBD. An official organizer update confirms submissions opened October 5: https://ieee-climatechain-hack.devpost.com/updates/46814-climatechain-hackathon-submissions-open-tomorrow-get-ready-to-submit. We use that newer explicit instruction for timing; the prizes remain advertised rather than a guaranteed payout. Winning and payout are not guaranteed.
 
 ## License
 

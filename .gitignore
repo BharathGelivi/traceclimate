@@ -5,3 +5,4 @@ node_modules/
 .sites-runtime/
 *.zip
 test-artifacts/
+.video-tools/
